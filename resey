@@ -1,0 +1,23 @@
+[33mcommit aef12e1746a80403149346c2eaa5ca175a696835[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/amplitude[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mamplitude[m[33m)[m
+Author: Dai <zixin.dai@philips.com>
+Date:   Tue May 26 13:32:53 2026 +0200
+
+    Download Amplitude bundle instead of relying on unpkg at runtime
+
+[33mcommit 80da81a6ed3d8eca6a89ef6e209a50e739420af6[m
+Author: Dai <zixin.dai@philips.com>
+Date:   Tue May 26 13:15:39 2026 +0200
+
+    Add Amplitude
+
+[33mcommit d5302c525b10842011c7b85f6e27b752e9ac3fc5[m
+Author: Dai <zixin.dai@philips.com>
+Date:   Tue May 26 10:43:55 2026 +0200
+
+    Initial commit: static site
+
+[33mcommit 293ec524003f5fb722042163bfb69d1f463360ab[m
+Author: ZixinDai <zixin.dai@philips.com>
+Date:   Tue May 26 09:50:24 2026 +0200
+
+    Initial commit
